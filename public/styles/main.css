@@ -37,12 +37,12 @@ input {
   width: 30%;
   margin: 10px auto;
   padding: 10px;
-  border: 1px solid #ccc;
+  border: 1px solid #beb5b5;
   border-radius: 5px;
 }
 
 button {
-  font-weight: 800;
+  font-weight: 820;
   letter-spacing: 2px;
   font-size: large;
   display: block;
@@ -93,7 +93,7 @@ button:hover {
     color: transparent;
   }
   100% {
-    color: red;
+    color: rgb(77, 146, 167);
   }
 }
 
